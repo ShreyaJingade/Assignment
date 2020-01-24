@@ -1,0 +1,20 @@
+.topnav{
+    color:black;
+    background-color: blanchedalmond;
+    font-size: 25px;
+    border-style: solid;
+    /*border-color: brown;*/
+}
+.top{
+    float: right;
+    background-color: blanchedalmond;
+    font-size: 25px;
+    /*border-style: solid;*/
+}
+h1{
+    color: rgb(3, 114, 55);
+    font-size: 50px;
+}
+.zoom{
+    
+}
